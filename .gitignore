@@ -1,0 +1,10 @@
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
+
+Reports
+StressReports
+assignment3.jtl
+stress_test.jtl
